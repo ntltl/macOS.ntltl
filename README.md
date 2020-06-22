@@ -1,5 +1,9 @@
 # macOS.ntltl
 
+### Forums & Blogs
+
+* [Apple Developer Forums](https://developer.apple.com/forums/)
+
 ### Resources
 
 * [Apple Services Performance Partners](https://affiliate.itunes.apple.com/resources/)
